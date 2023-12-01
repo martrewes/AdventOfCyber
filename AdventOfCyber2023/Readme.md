@@ -3,7 +3,7 @@
 ## Progress
 |Link|Title|Category|Complete?|
 |:--|:---|:--:|:--:|
-|[Day 1](./Day01/Readme.md)|Not Started| |![img](https://img.shields.io/badge/-No-red)|
+|[Day 1](./Day01/Readme.md)|Chatbot, tell me, if you're really safe?|Machine learning|![img](https://img.shields.io/badge/-Yes-green)|
 
 ## Sypnosis
 
