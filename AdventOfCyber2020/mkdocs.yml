@@ -1,0 +1,19 @@
+site_name: Advent of Code 2020 Log
+theme:
+    name: material
+    palette:
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+    - pymdownx.inlinehilite
+    - pymdownx.highlight:
+        linenums: true
+    - pymdownx.superfences
